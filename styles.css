@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(230, 225, 225);
+}
+h1{
+    color: rgb(251, 113, 113);
+    font-weight: 1000;
+}
+h2{
+    color: rgb(251, 113, 113);
+    font-weight: 1000;
+}
+table,td,th{
+    margin-inline: auto;
+    background-color: rgb(164, 255, 255);
+    border: 3.5px solid black;
+    border-collapse: collapse;
+    padding: 15px 15px;
+    font-weight: 1000;
+   }
+form{
+    margin-inline: auto;
+    text-align: left;
+    background-color: #cbffd7;
+    border: 7px solid #5f5804 !important;
+    border-collapse: collapse;
+    width:200px;
+    padding: 10px 20px 10px 20px;
+   }
+
+.name{
+    font-weight: 800;
+    color: rgb(30, 7, 122);
+    
+   }
+.form-box{
+    margin-bottom: 10px;
+}
+
+
+
